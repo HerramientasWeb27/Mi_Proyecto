@@ -1,0 +1,164 @@
+@import url("reset.css");
+
+body {
+	background:#3487F0;
+}
+a{
+	text-decoration: none;
+	color: #000;
+}
+.cabecera {
+	width: 70%;
+	height: 80px;
+	padding: 0px 15%;
+	margin: 5px auto;
+	text-align: center;
+	background: #ecf0f1; /* Old browsers */
+	background: -moz-linear-gradient(top,  #ecf0f1 0%, #bdc3c7 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ecf0f1), color-stop(100%,#bdc3c7)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #ecf0f1 0%,#bdc3c7 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #ecf0f1 0%,#bdc3c7 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #ecf0f1 0%,#bdc3c7 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #ecf0f1 0%,#bdc3c7 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ecf0f1', endColorstr='#bdc3c7',GradientType=0 ); /* IE6-9 */
+	box-shadow: 0px 0px 9px #000;
+}
+#logo{
+	width: 30%;
+	float: left;
+	padding: 10px 0px;
+}
+#logo {
+	font-size: 40px;
+	font-family: cursive, arial;
+	color: #fff;
+}
+.menu {
+	width: 39%;
+	float: right;
+	padding: 30p 0xp;
+}
+.menu li{
+	display: inline;
+}
+.menu li a {
+    margin-right: 30px;
+	font-size: 22px;
+	padding: 10px
+}
+.menu li a:hover{
+	background-color: #009fff;
+	color: #fff;
+	border-radius: 5px; 
+	
+}
+.texto1{
+	color: white;
+	font-size: 20px;
+	font-family: arial;
+	margin: 25px;
+}
+.texto2{
+	color: white;
+	font-size: 20px;
+	font-family: arial;
+	margin: 25px;
+	
+}
+
+.texto3{
+	margin: 25px;
+	background: black;
+	color: white;
+	text-align: center;
+	width: 75%;
+	padding: 20px;
+	font-size: 20px;
+	font-family: arial, 
+	
+}
+}
+.texto4{
+	margin: 50px;
+	background: black;
+	color: white;
+	text-align: center;
+	width: 75%;
+	padding: 20px;
+	font-size: 20px;
+	font-family: arial, 
+}
+	
+.texto5{
+	color: white;
+	font-size: 20px;
+	font-family: arial;
+	margin: 25px;
+}
+.texto6{
+		margin: 50px;
+	background: black;
+	color: white;
+	text-align: center;
+	width: 75%;
+	padding: 20px;
+	font-size: 20px;
+	font-family: arial, 
+}
+.parrafo2{
+	margin: 50px;
+	background: black;
+	color: white;
+	text-align: center;
+	width: 75%;
+	padding: 20px;
+	font-size: 20px;
+	font-family: arial, 
+}
+
+
+#play{
+  font-size: 25px;
+  font-family: arial,cursive;
+  text-align: center;
+ 
+ 
+}
+#nintendo{
+  font-size: 25px;
+  font-family: arial,cursive;
+  text-align:center;
+ 
+  
+}
+.pie{
+	background: black;
+	color:white;
+	padding: 50px;
+
+}
+	
+.play4{
+	
+	color: white;
+	font-size: 20px;
+	font-family: arial;
+	margin: 25px;
+}
+.nin{
+	
+	color: white;
+	font-size: 20px;
+	font-family: arial;
+	margin: 25px;
+	
+}
+.xbox{
+	
+	color: white;
+	font-size: 20px;
+	font-family: arial;
+	margin: 25px;
+}	
+
+
